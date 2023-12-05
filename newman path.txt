@@ -1,0 +1,1 @@
+newman run "Desktop\Trello project\postman\collection.json" -e "Desktop\Trello project\postman\environment.json"

@@ -1,0 +1,57 @@
+{
+	"id": "99a49a82-ef59-4f56-8df4-f80444eacf94",
+	"name": "Trello",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://trello.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "key",
+			"value": "9a0901958b8f1cedffe36f808e2b6d47",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "ATTA6789644ec2a9cf36bd5e451ea910fb620fe24ed333648284ea5d7d1f1e926d19F93BCA6A",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "board_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "list_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "card_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "checklist_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "member_id",
+			"value": "646cebfbfda6a0f4e86858c1",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-11-22T12:11:11.333Z",
+	"_postman_exported_using": "Postman/10.20.3"
+}
